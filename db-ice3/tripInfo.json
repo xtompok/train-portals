@@ -1,0 +1,39 @@
+{
+"tripDate":"2016-08-24","trainType":"ICE","vzn":"2543","actualPosition":5156,"distanceFromLastStop":196694,"totalDistance":263989,"stopInfo":{
+"scheduledNext":"8010404_00","actualNext":"8010404_00","actualLast":"8002549_00","actualLastStarted":"8010404","finalStationName":"Berlin Südkreuz","finalStationEvaNr":"8011113_00"},"stops":[{
+"station":{
+"evaNr":"8002553_00","name":"Hamburg-Altona","geocoordinates":{
+"latitude":53.552695,"longitude":9.935175}},"timetable":{
+"scheduledArrivalTime":null,"actualArrivalTime":null,"arrivalDelay":"","scheduledDepartureTime":1472034060000,"actualDepartureTime":1472034060000,"departureDelay":""},"track":{
+"scheduled":null,"actual":""},"info":{
+"status":0,"passed":true,"distance":0,"distanceFromStart":0},"delayReasons":null},{
+"station":{
+"evaNr":"8002548_00","name":"Hamburg Dammtor","geocoordinates":{
+"latitude":53.560751,"longitude":9.989566}},"timetable":{
+"scheduledArrivalTime":1472034420000,"actualArrivalTime":1472034420000,"arrivalDelay":"","scheduledDepartureTime":1472034540000,"actualDepartureTime":1472034540000,"departureDelay":""},"track":{
+"scheduled":"4","actual":"4"},"info":{
+"status":0,"passed":true,"distance":3704,"distanceFromStart":3704},"delayReasons":null},{
+"station":{
+"evaNr":"8002549_00","name":"Hamburg Hbf","geocoordinates":{
+"latitude":53.552736,"longitude":10.006909}},"timetable":{
+"scheduledArrivalTime":1472034780000,"actualArrivalTime":1472034780000,"arrivalDelay":"","scheduledDepartureTime":1472034960000,"actualDepartureTime":1472035020000,"departureDelay":"+1"},"track":{
+"scheduled":"6","actual":"6"},"info":{
+"status":0,"passed":true,"distance":1452,"distanceFromStart":5156},"delayReasons":null},{
+"station":{
+"evaNr":"8010404_00","name":"Berlin-Spandau","geocoordinates":{
+"latitude":52.534475,"longitude":13.197534}},"timetable":{
+"scheduledArrivalTime":1472041620000,"actualArrivalTime":1472041620000,"arrivalDelay":"","scheduledDepartureTime":1472041740000,"actualDepartureTime":1472041740000,"departureDelay":""},"track":{
+"scheduled":null,"actual":""},"info":{
+"status":0,"passed":false,"distance":241523,"distanceFromStart":246679},"delayReasons":null},{
+"station":{
+"evaNr":"8098160_00","name":"Berlin Hbf (tief)","geocoordinates":{
+"latitude":52.525592,"longitude":13.369545}},"timetable":{
+"scheduledArrivalTime":1472042220000,"actualArrivalTime":1472042280000,"arrivalDelay":"+1","scheduledDepartureTime":1472042400000,"actualDepartureTime":1472042460000,"departureDelay":"+1"},"track":{
+"scheduled":null,"actual":"1"},"info":{
+"status":0,"passed":false,"distance":11681,"distanceFromStart":258360},"delayReasons":null},{
+"station":{
+"evaNr":"8011113_00","name":"Berlin Südkreuz","geocoordinates":{
+"latitude":52.475047,"longitude":13.365319}},"timetable":{
+"scheduledArrivalTime":1472042700000,"actualArrivalTime":1472042820000,"arrivalDelay":"+2","scheduledDepartureTime":null,"actualDepartureTime":null,"departureDelay":""},"track":{
+"scheduled":null,"actual":""},"info":{
+"status":0,"passed":false,"distance":5629,"distanceFromStart":263989},"delayReasons":null}]} 
